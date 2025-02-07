@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "programFlyt_customizedGreeting/1.0.0": {
+        "runtime": {
+          "programFlyt_customizedGreeting.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "programFlyt_customizedGreeting/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

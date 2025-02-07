@@ -1,0 +1,14 @@
+C:\Users\oddy-\source\repos\programFlyt_customizedGreeting\bin\Debug\net8.0\programFlyt_customizedGreeting.exe
+C:\Users\oddy-\source\repos\programFlyt_customizedGreeting\bin\Debug\net8.0\programFlyt_customizedGreeting.deps.json
+C:\Users\oddy-\source\repos\programFlyt_customizedGreeting\bin\Debug\net8.0\programFlyt_customizedGreeting.runtimeconfig.json
+C:\Users\oddy-\source\repos\programFlyt_customizedGreeting\bin\Debug\net8.0\programFlyt_customizedGreeting.dll
+C:\Users\oddy-\source\repos\programFlyt_customizedGreeting\bin\Debug\net8.0\programFlyt_customizedGreeting.pdb
+C:\Users\oddy-\source\repos\programFlyt_customizedGreeting\obj\Debug\net8.0\programFlyt_customizedGreeting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oddy-\source\repos\programFlyt_customizedGreeting\obj\Debug\net8.0\programFlyt_customizedGreeting.AssemblyInfoInputs.cache
+C:\Users\oddy-\source\repos\programFlyt_customizedGreeting\obj\Debug\net8.0\programFlyt_customizedGreeting.AssemblyInfo.cs
+C:\Users\oddy-\source\repos\programFlyt_customizedGreeting\obj\Debug\net8.0\programFlyt_customizedGreeting.csproj.CoreCompileInputs.cache
+C:\Users\oddy-\source\repos\programFlyt_customizedGreeting\obj\Debug\net8.0\programFlyt_customizedGreeting.dll
+C:\Users\oddy-\source\repos\programFlyt_customizedGreeting\obj\Debug\net8.0\refint\programFlyt_customizedGreeting.dll
+C:\Users\oddy-\source\repos\programFlyt_customizedGreeting\obj\Debug\net8.0\programFlyt_customizedGreeting.pdb
+C:\Users\oddy-\source\repos\programFlyt_customizedGreeting\obj\Debug\net8.0\programFlyt_customizedGreeting.genruntimeconfig.cache
+C:\Users\oddy-\source\repos\programFlyt_customizedGreeting\obj\Debug\net8.0\ref\programFlyt_customizedGreeting.dll
